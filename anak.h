@@ -4,7 +4,7 @@
 class anak {
 public:
     string nama;
-    anak(string pNama) :nama(pnama) {
+    anak(string pNama) :nama(pNama) {
         cout << "Anak \"" << nama << "\" ada\n";
     }
      ~anak(){
